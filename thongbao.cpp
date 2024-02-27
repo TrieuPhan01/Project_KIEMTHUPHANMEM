@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hello World ban thay doi!";
+    std::cout << "Thay doi tren nhanh HienVy";
     return 0;
 }
