@@ -1,0 +1,164 @@
+{
+  "People_53_Trieu": [
+    {
+      "id": "1",
+      "first_name": "Trần",
+      "last_name": "Thị",
+      "age": 35,
+      "city": "Hải Phòng",
+      "job": "Nhà quản lý"
+    },
+    {
+      "id": "2",
+      "first_name": "Lê",
+      "last_name": "Thị",
+      "age": 22,
+      "city": "Hồ Chí Minh",
+      "job": "Lập trình viên"
+    },
+    {
+      "id": "3",
+      "first_name": "Phạm",
+      "last_name": "Đình",
+      "age": 41,
+      "city": "Đà Nẵng",
+      "job": "Nhà văn"
+    },
+    {
+      "id": "4",
+      "first_name": "Trần",
+      "last_name": "Hạnh",
+      "age": 25,
+      "city": "Hải Dương",
+      "job": "Kỹ sư phần mềm"
+    },
+    {
+      "id": "5",
+      "first_name": "Trieu",
+      "last_name": "Anh",
+      "age": 54,
+      "city": "Hải Dương",
+      "job": "Nhà quản lý"
+    },
+    {
+      "id": "6",
+      "first_name": "Phan",
+      "last_name": "Hạnh",
+      "age": 29,
+      "city": "Nha Trang",
+      "job": "Kỹ sư phần mềm"
+    },
+    {
+      "id": "7",
+      "first_name": "Nguyễn",
+      "last_name": "Hải",
+      "age": 47,
+      "city": "Vũng Tàu",
+      "job": "Kỹ sư phần mềm"
+    },
+    {
+      "id": "8",
+      "first_name": "Hoàng",
+      "last_name": "Thị",
+      "age": 28,
+      "city": "Đà Lạt",
+      "job": "Chuyên gia tài chính"
+    },
+    {
+      "id": "9",
+      "first_name": "Phan",
+      "last_name": "Thị",
+      "age": 19,
+      "city": "Huế",
+      "job": "Kỹ sư phần mềm"
+    },
+    {
+      "id": "10",
+      "first_name": "Hoàng",
+      "last_name": "Hải",
+      "age": 23,
+      "city": "Hồ Chí Minh",
+      "job": "Nhà quản lý"
+    },
+    {
+      "id": "11",
+      "first_name": "Vũ",
+      "last_name": "Hạnh",
+      "age": 34,
+      "city": "Hải Phòng",
+      "job": "Nhà quản lý"
+    },
+    {
+      "id": "12",
+      "first_name": "Hoàng",
+      "last_name": "Hạnh",
+      "age": 27,
+      "city": "Hải Dương",
+      "job": "Kỹ sư phần mềm"
+    },
+    {
+      "id": "13",
+      "first_name": "Lê",
+      "last_name": "Anh",
+      "age": 38,
+      "city": "Hà Nội",
+      "job": "Lập trình viên"
+    },
+    {
+      "id": "14",
+      "first_name": "aa",
+      "last_name": "aaaaaa",
+      "age": 42,
+      "city": "Hà Nội",
+      "job": "Kỹ sư phần mềm"
+    },
+    {
+      "id": "15",
+      "first_name": "Trần",
+      "last_name": "Thị",
+      "age": 20,
+      "city": "Hải Phòng",
+      "job": "Chuyên gia tài chính"
+    },
+    {
+      "id": "16",
+      "first_name": "Trần",
+      "last_name": "Thị",
+      "age": 29,
+      "city": "Hồ Chí Minh",
+      "job": "Nhà quản lý"
+    },
+    {
+      "id": "17",
+      "first_name": "Phạm",
+      "last_name": "Anh",
+      "age": 31,
+      "city": "Đà Nẵng",
+      "job": "Lập trình viên"
+    },
+    {
+      "id": "18",
+      "first_name": "Hoàng",
+      "last_name": "Anh",
+      "age": 28,
+      "city": "Hồ Chí Minh",
+      "job": "Nhà quản lý"
+    },
+    {
+      "id": "19",
+      "first_name": "Phạm",
+      "last_name": "Thị",
+      "age": 25,
+      "city": "Hà Nội",
+      "job": "Nhà quản lý"
+    },
+    {
+      "id": "20",
+      "first_name": "Lê",
+      "last_name": "Thị",
+      "age": 42,
+      "city": "Hà Nội",
+      "job": "Kỹ sư phần mềm"
+    }
+  ]
+}

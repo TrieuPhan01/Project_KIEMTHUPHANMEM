@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KTPM_53_Trieu", "KTPM_53_Trieu.csproj", "{0672DF18-6983-4F9A-ADBC-7D32C055938D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KTPMTester_53_Trieu", "..\KTPMTester_53_Trieu\KTPMTester_53_Trieu.csproj", "{354D09B9-3B17-4706-BFE0-7095EFC02840}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0672DF18-6983-4F9A-ADBC-7D32C055938D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0672DF18-6983-4F9A-ADBC-7D32C055938D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0672DF18-6983-4F9A-ADBC-7D32C055938D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0672DF18-6983-4F9A-ADBC-7D32C055938D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{354D09B9-3B17-4706-BFE0-7095EFC02840}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{354D09B9-3B17-4706-BFE0-7095EFC02840}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{354D09B9-3B17-4706-BFE0-7095EFC02840}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{354D09B9-3B17-4706-BFE0-7095EFC02840}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD6F3DE3-4E51-4B1E-A883-F25F24C76F99}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+{
+  "name": "jsonservertester_53_trieu",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch People_53_Trieu.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "i": "^0.3.7",
+    "json-server": "^1.0.0-beta.0"
+  }
+}

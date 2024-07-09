@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PHAN_HOANG_TRIEU\\KTPM_53_Trieu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0672DF18-6983-4F9A-ADBC-7D32C055938D}|KTPM_53_Trieu.csproj|d:\\phan_hoang_trieu\\ktpm_53_trieu\\formwebdriverktpm_53_trieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0672DF18-6983-4F9A-ADBC-7D32C055938D}|KTPM_53_Trieu.csproj|solutionrelative:formwebdriverktpm_53_trieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0672DF18-6983-4F9A-ADBC-7D32C055938D}|KTPM_53_Trieu.csproj|D:\\PHAN_HOANG_TRIEU\\KTPM_53_Trieu\\formwebdriverktpm_53_trieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0672DF18-6983-4F9A-ADBC-7D32C055938D}|KTPM_53_Trieu.csproj|solutionrelative:formwebdriverktpm_53_trieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{354D09B9-3B17-4706-BFE0-7095EFC02840}|..\\KTPMTester_53_Trieu\\KTPMTester_53_Trieu.csproj|d:\\phan_hoang_trieu\\ktpmtester_53_trieu\\testunit_csv_53_trieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0672DF18-6983-4F9A-ADBC-7D32C055938D}|KTPM_53_Trieu.csproj|D:\\PHAN_HOANG_TRIEU\\KTPM_53_Trieu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0672DF18-6983-4F9A-ADBC-7D32C055938D}|KTPM_53_Trieu.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormWebDriverKTPM_53_Trieu.cs",
+              "DocumentMoniker": "D:\\PHAN_HOANG_TRIEU\\KTPM_53_Trieu\\FormWebDriverKTPM_53_Trieu.cs",
+              "RelativeDocumentMoniker": "FormWebDriverKTPM_53_Trieu.cs",
+              "ToolTip": "D:\\PHAN_HOANG_TRIEU\\KTPM_53_Trieu\\FormWebDriverKTPM_53_Trieu.cs",
+              "RelativeToolTip": "FormWebDriverKTPM_53_Trieu.cs",
+              "ViewState": "AQIAAMYAAAAAAAAAAAAAwNMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:05:59.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormWebDriverKTPM_53_Trieu.cs [Design]",
+              "DocumentMoniker": "D:\\PHAN_HOANG_TRIEU\\KTPM_53_Trieu\\FormWebDriverKTPM_53_Trieu.cs",
+              "RelativeDocumentMoniker": "FormWebDriverKTPM_53_Trieu.cs",
+              "ToolTip": "D:\\PHAN_HOANG_TRIEU\\KTPM_53_Trieu\\FormWebDriverKTPM_53_Trieu.cs [Design]",
+              "RelativeToolTip": "FormWebDriverKTPM_53_Trieu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T08:57:00.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PHAN_HOANG_TRIEU\\KTPM_53_Trieu\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\PHAN_HOANG_TRIEU\\KTPM_53_Trieu\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T08:56:56.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestUnit_CSV_53_Trieu.cs",
+              "DocumentMoniker": "D:\\PHAN_HOANG_TRIEU\\KTPMTester_53_Trieu\\TestUnit_CSV_53_Trieu.cs",
+              "RelativeDocumentMoniker": "..\\KTPMTester_53_Trieu\\TestUnit_CSV_53_Trieu.cs",
+              "ToolTip": "D:\\PHAN_HOANG_TRIEU\\KTPMTester_53_Trieu\\TestUnit_CSV_53_Trieu.cs",
+              "RelativeToolTip": "..\\KTPMTester_53_Trieu\\TestUnit_CSV_53_Trieu.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T08:56:50.827Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
